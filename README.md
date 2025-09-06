@@ -5,7 +5,7 @@ This repository contains the notebook **"Modeling Political Behavior"**, which f
 ## Contents
 
 ### Notebook
-- **`Modeling Political Behavior.ipynb`**: The main notebook, which includes:
+  - **`Modeling Political Behavior.ipynb`**: The main notebook, which includes:
   - Data preprocessing steps.
   - Modeling techniques applied to the analysis of political behavior.
   - Visualization and interpretation of results.
@@ -36,13 +36,10 @@ This repository contains the notebook **"Modeling Political Behavior"**, which f
 
 ## Contributing
 
-If you’d like to contribute to this project:
-
-Fork the repository.
-
-Create a new branch for your feature or fix.
-
-Submit a pull request.
+- If you’d like to contribute to this project:
+- Fork the repository.
+- Create a new branch for your feature or fix.
+- Submit a pull request.
 
 ## Contact
 For questions or collaborations, please contact:
