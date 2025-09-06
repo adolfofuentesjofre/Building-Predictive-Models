@@ -1,47 +1,51 @@
-# Modelando el Comportamiento Político
+# Modeling Political Behavior
 
-Este repositorio contiene el notebook **"Modeling Political Behavior"**, que se centra en analizar y modelar el comportamiento político utilizando diversas técnicas de Machine Learning.
+This repository contains the notebook **"Modeling Political Behavior"**, which focuses on analyzing and modeling political behavior using various Machine Learning techniques.
 
-## Contenido
+## Contents
 
 ### Notebook
-- **`Modeling Political Behavior.ipynb`**: El notebook principal que incluye:
-  - Pasos de preprocesamiento de datos.
-  - Técnicas de modelado aplicadas al análisis del comportamiento político.
-  - Visualización e interpretación de resultados.
+- **`Modeling Political Behavior.ipynb`**: The main notebook, which includes:
+  - Data preprocessing steps.
+  - Modeling techniques applied to the analysis of political behavior.
+  - Visualization and interpretation of results.
 
-### Carpetas
-- **Books**: Documentos y referencias relevantes para el proyecto.
-- **Data**: Datos necesarios para ejecutar los análisis.
-- **Imagenes**: Recursos visuales utilizados en el proyecto.
+### Folders
+- **Books**: Documents and references relevant to the project.  
+- **Data**: Data required to run the analyses.  
+- **Imagenes**: Visual resources used in the project.  
 
-## Uso
+## Usage
 
-1. Clonar este repositorio:
+1. Clone this repository:
    ```bash
    git clone <repository-url>
    ```
 
-2. Navegar al directorio del proyecto:
+2. Navigate to the project directory:
    ```bash
    cd modeling-political-behavior
    ```
 
-3. Abrir el notebook:
+3. Open the notebook:
    ```bash
    jupyter notebook Modeling Political Behavior.ipynb
    ```
 
-4. Seguir las instrucciones dentro del notebook para ejecutar el análisis.
+4. Follow the instructions inside the notebook to run the analysis.
 
-## Contribuir
-Si deseas contribuir a este proyecto:
-1. Haz un fork del repositorio.
-2. Crea una rama nueva para tu funcionalidad o corrección.
-3. Envía un pull request.
+## Contributing
 
-## Contacto
-Para preguntas o colaboraciones, por favor contactar a:
+If you’d like to contribute to this project:
+
+Fork the repository.
+
+Create a new branch for your feature or fix.
+
+Submit a pull request.
+
+## Contact
+For questions or collaborations, please contact:
 - **Adolfo Ignacio Fuentes Jofré**
 - **afuentesj@udd.cl**
 - **[Sitio Web](https://adolfoignacio.com)**
